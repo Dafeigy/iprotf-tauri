@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  width: 900px;
+  height: 300px;
+}
+
+#container{
+  display: flex;
+
+}
+
+#sidebar{
+  width: 100px;
+  height: 300px;
+  background-color: aquamarine;
+}
+
+#chart{
+  width: 750px;
+  height: 200px;
+  background-color: #999;
+}
+
+#configuration{
+  width: 590px;
+  height: 50px;
+  background-color: #333;
+}
+
+#logging{
+  width: 750;
+  height: 14px;
+  background: coral;
+  font-size: 10px;
+}
+
+#action{
+  width: 150px;
+  height: 50px;
+  background-color: dodgerblue;
+}
+
+
+#main{
+  margin-left: 10px;
+  height: 300px;
+}
+
+#main >div{
+  margin: 10px;
+}
+
+#top{
+  margin: 0;
+}
+
+#top{
+  display: flex;
+}
+
+#action{
+  margin-left: 10px;
+}
