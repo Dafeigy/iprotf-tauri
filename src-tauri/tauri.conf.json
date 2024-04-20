@@ -20,7 +20,12 @@
       {
         "title": "iprotf-tauri",
         "width": 900,
-        "height": 300
+        "height": 260,
+        "decorations": false,
+        "label": "customization",
+        "fullscreen": false,
+        "resizable": true,
+        "fileDropEnabled": false
       }
     ],
     "security": {
